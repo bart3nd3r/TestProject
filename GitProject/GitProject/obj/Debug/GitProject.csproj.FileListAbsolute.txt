@@ -1,0 +1,5 @@
+C:\Documents and Settings\Olcay\Gittim\GitProject\GitProject\bin\GitProject.dll
+C:\Documents and Settings\Olcay\Gittim\GitProject\GitProject\bin\GitProject.pdb
+C:\Documents and Settings\Olcay\Gittim\GitProject\GitProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Olcay\Gittim\GitProject\GitProject\obj\Debug\GitProject.dll
+C:\Documents and Settings\Olcay\Gittim\GitProject\GitProject\obj\Debug\GitProject.pdb
